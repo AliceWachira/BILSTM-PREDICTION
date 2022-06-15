@@ -8,3 +8,5 @@ This codes extracts the traffic information for different paths and saves them s
 This codes explores the distribution of the speed and travel time of different paths during different times of the week.
 # NYC traffic data exploration of January, February and March
 This code investigates the  speed patterns for three selected months.
+# Link to download the dataset
+https://www.kaggle.com/crailtap/nyc-real-time-traffic-speed-data-feed
